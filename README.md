@@ -1,10 +1,10 @@
 <h1 align="center">
-Thermogram Platform App
+LIG-based Thermogram Generating App
 <p>
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
 </p>
 </h1>
-<h3 align="center">Generate Foot Thermogram from a Contactless Temperature Sensor Platform</h3>
+<h3 align="center">Generate Foot Thermogram from a Contactless LIG Sensor Array</h3>
 
 <p align="center">
     <a href="https://github.com/atick-faisal/Thermogram-Platform-App/releases"><img src="https://img.shields.io/github/release/atick-faisal/Thermogram-Platform-App?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
@@ -31,9 +31,9 @@ Thermogram Platform App
 ### Installation
 1. Download and extract the archive
 2. Move into the `driver` directory inside the extracted folder
-3. Right click on the `silabser.inf` file and click `install`
+3. Right-click on the `silabser.inf` file and click `install`
 4. (Optional) Restart the computer
-5. Connect the Thermogram Platform via USB cable
+5. Connect the foot sole using a USB
 6. Run the `main.exe` file inside the extracted folder
 
 
